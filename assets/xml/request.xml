@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<methodCall>
+<methodName>pingback.ping</methodName>
+<params>
+ <param>
+  <value>
+   <string>http://contao.kitchen/</string>
+  </value>
+ </param>
+ <param>
+  <value>
+   <string>http://contao.kitchen/de/beitrag/einen-weblog-mit-contao-erstellen.html</string>
+  </value>
+ </param>
+</params>
+</methodCall>
