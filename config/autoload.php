@@ -7,7 +7,7 @@ ClassLoader::addNamespaces(array
 
 ClassLoader::addClasses(array
 (
-	'Contao\XMLRPCServer' => 'system/modules/news_pingback/xmlrpc/XMLRPCServer.php'
+	'Contao\XMLRPCServer' => 'system/modules/trackback/xmlrpc/XMLRPCServer.php'
 ));
 
 TemplateLoader::addFiles(array());

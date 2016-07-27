@@ -4,12 +4,12 @@
 <params>
  <param>
   <value>
-   <string>http://contao.kitchen/</string>
+   <string>https://contao.kitchen/</string>
   </value>
  </param>
  <param>
   <value>
-   <string>http://contao.kitchen/de/beitrag/einen-weblog-mit-contao-erstellen.html</string>
+   <string>https://contao.kitchen/de/beitrag/einen-weblog-mit-contao-erstellen.html</string>
   </value>
  </param>
 </params>
