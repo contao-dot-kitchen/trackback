@@ -1,13 +1,7 @@
 <?php
 
-ClassLoader::addNamespaces(array
-(
-	'Contao'
-));
+ClassLoader::addNamespaces(array());
 
-ClassLoader::addClasses(array
-(
-	'Contao\XMLRPCServer' => 'system/modules/trackback/xmlrpc/XMLRPCServer.php'
-));
+ClassLoader::addClasses(array());
 
 TemplateLoader::addFiles(array());
